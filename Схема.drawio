@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" modified="2023-12-08T20:59:52.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.2470 YaBrowser/23.11.0.2470 Yowser/2.5 Safari/537.36" etag="sU7gnxmqxLT94R8MVRbC" version="22.1.7" type="github">
+  <diagram name="Страница — 1" id="r8gTyWOFFWwXQ8K8IDo2">
+    <mxGraphModel dx="1372" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T_NDn8v050l-Vsb_T4sm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T_NDn8v050l-Vsb_T4sm-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T_NDn8v050l-Vsb_T4sm-19" value="s1&lt;br&gt;+school info" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T_NDn8v050l-Vsb_T4sm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T_NDn8v050l-Vsb_T4sm-20" target="T_NDn8v050l-Vsb_T4sm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_NDn8v050l-Vsb_T4sm-20" value="s2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+place of birth" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T_NDn8v050l-Vsb_T4sm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_NDn8v050l-Vsb_T4sm-21" target="T_NDn8v050l-Vsb_T4sm-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_NDn8v050l-Vsb_T4sm-21" value="master" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T_NDn8v050l-Vsb_T4sm-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_NDn8v050l-Vsb_T4sm-26" target="T_NDn8v050l-Vsb_T4sm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_NDn8v050l-Vsb_T4sm-26" value="master" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T_NDn8v050l-Vsb_T4sm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_NDn8v050l-Vsb_T4sm-37" target="T_NDn8v050l-Vsb_T4sm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_NDn8v050l-Vsb_T4sm-37" value="s1&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+new hobby" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T_NDn8v050l-Vsb_T4sm-50" value="master" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
